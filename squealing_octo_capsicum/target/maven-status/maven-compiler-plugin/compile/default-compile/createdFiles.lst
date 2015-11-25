@@ -1,0 +1,4 @@
+App.class
+event/EventManager.class
+event/Event.class
+util/JPAUtil.class
